@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+   font-size: 14px; 
+   margin: 30px;
+   padding: 4px;
+   border: 1px solid rgb(221, 233, 235);
+   border-width: 40px;
+}
+
+#first-paragraph{
+    color: green;
+}
+#second-paragraph{
+    color: red;
+}
+#third-paragraph{
+    color: blue;
+}
